@@ -85,7 +85,7 @@ const innerStyle = computed(() => {
   z-index: 2;
   background-color: var(--dark);
   color: var(--light);
-  padding: 50px 0;
+  padding: 0;
 }
 
 .inner {
